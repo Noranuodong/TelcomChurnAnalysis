@@ -7,3 +7,42 @@ This research aims to fill the gap of research in Telecom customer retention str
 
 ## Version Info
 The original code is completed in December 2021, and the code is revised on April 17, 2023.
+
+## Content of the coding
+
+### I. Introduction
+- Motivation and Design
+- Dataset
+
+### II. Data Pre-processing
+- Prepare data and packages
+- Data cleaning and transformation 
+
+### III. Exploratory data analysis (EDA)
+- Churn (dependent variable)
+- Customer demographics and account features 
+
+### IV. Churn Prediction (Supervised Machine Learning)
+- Model preparation
+ - Cross validation 
+ - Class balancing
+- Model fitting
+ - Adaboost
+ - Decision Tree
+ - Logistic Regression
+ - Random Forest
+- Model evaluation
+ - Performance metrics
+ - ROC and refit time curve
+ - Confusion matrix
+ - Classification report 
+
+### V. Factorial Analysis
+- Adaboost's Important Variables
+- Decision Tree's Plot
+
+### VI. Customer Segmentation
+- Naive method
+- K-means clustering
+
+### VII. Conclusion and Discussion
