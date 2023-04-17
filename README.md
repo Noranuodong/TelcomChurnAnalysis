@@ -1,4 +1,6 @@
 # Telcom Churn Analysis by Nora Dong
+** e-mail ** nuodong21@gmail.com
+
 ## Topic 
 The project is about analyzing customer churn behavior in a telecommunication firm using Python. 
 
